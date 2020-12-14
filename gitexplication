@@ -1,0 +1,13 @@
+1-  faire sortir mon travail de dossier photoes et mettre  dans brureau 
+
+2-  ouvrir ..terminal (photo) puis coller 
+git fetch origin master
+git reset --hard origin/master  ( puis enter)
+ 
+ 
+ 3- re-ajouter mon travail ds dossier photos
+ 
+ 4- coller : 
+ git add -A (enter)
+git add commit -m ‘ votre nom + message interessant’( enter)
+git push origin master  ( enter)
